@@ -1,11 +1,3 @@
-Une nouvelle triche gratuite pour le jeu en ligne préféré de tout le monde, Garry’s Mod, a été publiée. La triche appelée GMOD-SDK peut être téléchargée via mon github, sans virus ni publicités ennuyeuses.
-
-De nombreuses fonctions différentes, toutes les fonctionnalités fonctionnent pleinement et sont constamment mises à jour par moi même, Utilisation et configuration faciles des fonctions via le menu, que vous pouvez ouvrir directement pendant le jeu.
-
-Parmi les fonctionnalités actuelles, je voudrais souligner: les fonctions de tir, aimbot, triggerbot, les paramètres visuels, LUA Executor, des outils supplémentaires pour la gestion du jeu, et bien plus encore.
-
-!! UNDETECTABLE !!
-
 ____________ZZZZZZZZZZZZZZZZZZZZZ 
 __________ZZZZZ______________ZZZZZZ 
 ________ZZZZZ____________________ZZZZ 
